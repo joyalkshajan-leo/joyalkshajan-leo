@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" alt="Profile Views"/>
+ <img src="https://komarev.com/ghpvc/?username=joyalkshajan-leo&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 ---
