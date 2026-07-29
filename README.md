@@ -109,7 +109,7 @@ SQL                  ██████████████░░░░░�
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=username=joyalkshajan-leo&hide_border=true&theme=transparent" />
 </p>
 
 ---
