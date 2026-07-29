@@ -104,8 +104,8 @@ SQL                  ██████████████░░░░░�
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyalkshajan-leo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyalkshajan-leo&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
@@ -133,7 +133,7 @@ SQL                  ██████████████░░░░░�
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joyalkshajan-leo&hide_border=true&area=true&theme=github-compact" />
 </p>
 
 ---
