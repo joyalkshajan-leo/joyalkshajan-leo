@@ -103,17 +103,21 @@ SQL                  ██████████████░░░░░�
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyalkshajan-leo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+📊 GitHub Analytics
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyalkshajan-leo&layout=compact&hide_border=true&theme=transparent" />
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=joyalkshajan-leo&show_icons=true&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyalkshajan-leo&layout=compact&theme=tokyonight" width="48%" />
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joyalkshajan-leo&hide_border=true&theme=transparent" />
+
+<img src="https://streak-stats.demolab.com/?user=joyalkshajan-leo&theme=tokyonight" width="70%" />
+
 </p>
-
-
 ---
 
 ## 🧰 Tools I Work With
