@@ -99,14 +99,13 @@ Web Development      ██████████████░░░░░�
 SQL                  ██████████████░░░░░░░   70%
 ```
 
----
+
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=joyalkshajan-leo&theme=tokyonight&hide_border=true" width="70%" />
 </p>
----
 
 ## 🧰 Tools I Work With
 
